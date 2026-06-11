@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+praw
+numpy
+scikit-learn
+apscheduler
+requests
