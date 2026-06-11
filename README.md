@@ -59,7 +59,11 @@ The clustering and confidence scoring happens in a separate Colab notebook (`fan
 
 ## Screenshots
 
-(add screenshots here)
+<img width="1895" height="917" alt="image" src="https://github.com/user-attachments/assets/8983f543-a0c9-4269-81cd-7b62739a7c75" />
+<img width="1882" height="901" alt="image" src="https://github.com/user-attachments/assets/bdbb8e42-c188-4ef3-8187-be35b5e19ef5" />
+<img width="1893" height="911" alt="image" src="https://github.com/user-attachments/assets/7f01167e-d61c-482e-ace3-c990292c40bb" />
+
+
 
 ---
 
